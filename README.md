@@ -5,7 +5,7 @@
 #### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
 
 ### En:
-#### Task 1
+#### Task 2
 What You Need to Do
 - Create a div element with id="progress-bar", a height of 20px, and a maximum width of 500px.
 Style it however you like — the main thing is that it’s visible on the page.
@@ -24,7 +24,7 @@ Acceptance Criteria
 ____________________________________________________________________________________________________
 
 ### Ru:
-#### Задача 1
+#### Задача 2
 Создание progress bar
 Что нужно сделать
 Создайте элемент div с id=”progress-bar”, высотой 20 px и максимальной шириной 500 px. Стилизуйте его на своё усмотрение — главное, чтобы элемент был виден на странице.
